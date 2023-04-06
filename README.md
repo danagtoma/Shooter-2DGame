@@ -4,7 +4,6 @@ An approach to a 2D shooter game made with OpenGL.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Team](#team)
 
 ## General Information
